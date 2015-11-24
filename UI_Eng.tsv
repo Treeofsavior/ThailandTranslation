@@ -3,41 +3,41 @@ UI_20150317_000002	{@st43}Attribute List {/}
 UI_20150317_000003	{@st59}Close the Attribute List {/}
 UI_20150317_000004	{@st43}Learn Attributes{/}
 UI_20150317_000005	{@st59}Close Attributes window{/}
-UI_20150317_000006	{@st41b}Funds{/}
+UI_20150317_000006	{@st41b}ราคา{/}
 UI_20150317_000007	My Achievements
 UI_20150317_000008	Server Ranking
 UI_20150317_000009	{@st59}An unexpected event is available.{/}
 UI_20150317_000010	{@st59}There is a new Help message{/}
 UI_20150317_000011	{@st41}Are you sure you want to craft this type of arrow?{/}
-UI_20150317_000012	{@st41b}Once{/}
-UI_20150317_000013	{@st41b}All{/}
-UI_20150317_000014	{@st41b}Pause{/}
-UI_20150317_000015	{@st43}Adventure Journal{/}
-UI_20150317_000016	{@st43}Auction House{/}
-UI_20150317_000017	{@st59}Close the Auction House{/}
-UI_20150317_000018	{memo X}{@st41b}Items Sold : ×%s, Items Unsold : ×%s{/}
-UI_20150317_000019	{@st43}{s22}Item Auction{/}
-UI_20150317_000020	{@st59}Close Quest Information{/}
-UI_20150317_000021	Availest
-UI_20150317_000022	{@st41b}Remaining Time
-UI_20150317_000023	3 hours 16 minutes
-UI_20150317_000024	{@st41b}Starting Price
+UI_20150317_000012	{@st41b}ครั้งเดียว{/}
+UI_20150317_000013	{@st41b}ทั้งหมด{/}
+UI_20150317_000014	{@st41b}หยุด{/}
+UI_20150317_000015	{@st43}บันทึกการผจญภัย{/}
+UI_20150317_000016	{@st43}ตลาดกลาง{/}
+UI_20150317_000017	{@st59}ปิดหน้าต่างตลาดกลาง{/}
+UI_20150317_000018	{memo X}{@st41b}ไอเทมที่ขายออก : ×%s,ไอเทมที่คงอยู่ : ×%s{/}
+UI_20150317_000019	{@st43}{s22}ไอเทมตลาดกลาง{/}
+UI_20150317_000020	{@st59}ปิดหน้าต่างรายละเอียดเควส{/}
+UI_20150317_000021	กำไร
+UI_20150317_000022	{@st41b}เวลาคงเหลือ
+UI_20150317_000023	3 ชั่วโมง 16 นาที
+UI_20150317_000024	{@st41b}ราคาเริ่มต้น
 UI_20150317_000025	{@st41b}Bids
-UI_20150317_000026	{@st41b}Current Price
-UI_20150317_000027	{@st41b}Bidding Price
-UI_20150317_000028	{@st41b}Minimum Bid Price from {@st57}%s{@st41b}silver{/}
-UI_20150317_000029	{@st41b}Bid{/}
-UI_20150317_000030	{@st43b}Buy Now!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_000026	{@st41b}ราคาปัจจุบัน
+UI_20150317_000027	{@st41b}ราคาประมูล
+UI_20150317_000028	{@st41b}ราคาประมูลขั้นต่ำ เริ่มต้นที่ {@st57}%s{@st41b}silver{/}
+UI_20150317_000029	{@st41b}ประมูล{/}
+UI_20150317_000030	{@st43b}ซื้อทันที!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_000031	{@st44}Permission Settings{/}
-UI_20150317_000032	{@st45}Name: %s{/}
-UI_20150317_000033	{@st45}Party Warehouse{/}
-UI_20150317_000034	{@st49}None
-UI_20150317_000035	{@st49}Store
-UI_20150317_000036	{@st49}Retrieve
-UI_20150317_000037	{@st45}Survey{/}
-UI_20150317_000038	{@st49}Create
-UI_20150317_000039	{@st49}Delete
-UI_20150317_000040	{@st44}Save{/}
+UI_20150317_000032	{@st45}ชื่อ: %s{/}
+UI_20150317_000033	{@st45}คลังสมบัติของปาร์ตี้{/}
+UI_20150317_000034	{@st49}ไม่มี
+UI_20150317_000035	{@st49}เก็บ
+UI_20150317_000036	{@st49}ได้รับ
+UI_20150317_000037	{@st45}สำหรวจ{/}
+UI_20150317_000038	{@st49}สร้าง
+UI_20150317_000039	{@st49}ลบ
+UI_20150317_000040	{@st44}บันทุึก{/}
 UI_20150317_000041	{@st44}Cancel{/}
 UI_20150317_000042	{@st43}{s22}Hair Shop{/}
 UI_20150317_000043	{@st59}Previous Hairstyle{/}
